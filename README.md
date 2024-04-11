@@ -4,8 +4,13 @@ I'm a 23 year old Full Stack .Net Developer from Orlando, and I'm passionate abo
 
 * Check out my [portfolio website](https://zach-bray-portfolio.azurewebsites.net/ "website") to learn more about me
 
-### Skills ###
+### ✅ Skills ###
+Frontend: 
+Backend: 
+Testing/Deployment:
+Developer Tools:
 
+### 🧠 Fun Facts ###
 
 <!--
 **zachbray9/zachbray9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
