@@ -12,6 +12,11 @@ Developer Tools: ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5
 Other: ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
 
 ### 🧠 Fun Facts ###
+* Naruto is my favorite anime.
+* I have a cat named Zuko.
+* My favorite food is pancakes.
+* Ctrl C and Ctrl V are my favorite keyboard shortcuts.
+* I never use Stack Overflow.
 
 ### 📫 Contact ###
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/zach-bray).
