@@ -1,6 +1,6 @@
 ### Hey, I'm Zach 👋
 
-I'm a 23 year old Full Stack .Net Developer from Orlando, and I'm passionate about learning new technology.
+I'm a 24 year old Full Stack Software Developer from Orlando, and I'm passionate about learning new technology.
 
 * Check out my [portfolio website](https://zach-bray-portfolio.azurewebsites.net/ "website") to learn more about me.
 
