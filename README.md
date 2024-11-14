@@ -2,7 +2,7 @@
 
 I'm a 24 year old Full Stack Software Engineer from Orlando, and I'm passionate about learning new technology.
 
-* Check out my [portfolio website](https://zach-bray-portfolio.azurewebsites.net/ "website") to learn more about me.
+* Check out my [portfolio website](https://www.zachbray.dev/ "website") to learn more about me.
 
 ### ✅ Skills ###
 Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  
